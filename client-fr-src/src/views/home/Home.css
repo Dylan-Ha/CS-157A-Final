@@ -1,0 +1,18 @@
+.image {
+  height: 300px;
+  min-width: auto;
+  margin: 50px;
+}
+
+.choice {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  height: 150;
+  width: 300;
+  font-size: 25px;
+  margin: 200px;
+}

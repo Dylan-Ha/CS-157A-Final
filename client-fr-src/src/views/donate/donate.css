@@ -1,0 +1,16 @@
+.image {
+  height: 250px;
+  min-width: auto;
+  margin: 50px;
+}
+
+.choice {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  font-size: 20px;
+  margin: 100px;
+}
